@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/springboot4?useUnicode=true&charaterEncoding=UTF-8&serverTimezone=Hongkong
+    username: root
+    password: sa123
+    driver-class-name: com.mysql.cj.jdbc.Driver
